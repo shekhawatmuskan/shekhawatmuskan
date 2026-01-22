@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muskan Shekhawat! 👋
 
-<!--
-**shekhawatmuskan/shekhawatmuskan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Web developer focused on building clean, responsive, and user-friendly web interfaces.
 
-Here are some ideas to get you started:
+- 👀 **I'm interested in** Front-End Development and modern web technologies
+- 🌱 **I'm currently learning** Full-stack development and working with APIs
+- 💞️ **I'm looking to collaborate on** Full-stack and front-end projects using React, Node.js
+- 📫 **How to reach me:**  
+  [LinkedIn](https://www.linkedin.com/in/muskan-shekhawat-327b27216/) | [Email](mailto:muskanshekhawat1802@gmail.com)
+- 😄 **Pronouns:** She/Her
+- ⚡ **Fun fact:** I enjoy blending creativity with code and exploring AI-powered tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I work with:
+- **Frontend:** React.js, JavaScript (ES6+), HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL, SQL
+- **Tools:** Git, GitHub, VS Code, Postman
+
+Feel free to explore my repositories and connect — always open to learning and collaboration 🚀
