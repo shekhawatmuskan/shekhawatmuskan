@@ -26,7 +26,7 @@
   </h1>
 
 <p>
-   👩🏻 My name is **Muskan Kanwar Shekhawat**. I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building responsive and scalable web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in Jaipur, India. <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="40" /> <br/>
+   👩🏻 My name is  <strong>Muskan Kanwar Shekhawat </strong>strong>. I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building responsive and scalable web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in Jaipur, India. <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="40" /> <br/>
   👩🏻‍💻 I'm a Computer Science Engineering graduate with hands-on experience in React.js, Tailwind CSS, and UI/UX design principles. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
   💪🏻At the moment, I am expanding my skills into full-stack development, working on projects that combine beautiful design with robust functionality. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" /> <br/>
   💁🏻‍♀️Feel free to explore my repositories and connect with me! 💅🏻 ✨
@@ -184,14 +184,13 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=shekhawatmuskan&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
+ <h2>📊 GitHub Analytics — 2026</h2>
+
   
   <!-- Custom Streak Stats matching your data -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhawatmuskan&theme=dracula&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&currStreakNum=13&longestStreakNum=13&longestStreakDate=Jan%2024%202026&totalContributions=20" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhawatmuskan&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
+ 
 </div>
 
 ---
@@ -221,15 +220,16 @@ TypeScript               4 repos             ██░░░░░░░░░�
 
 <!-- GitHub Contribution Graph -->
 <div align="center">
-  <h2>🐍 Contribution Graph</h2>
+ <h2>🐍 2026 Contribution Journey</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhawatmuskan&theme=dracula&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+
+  <p align="center">
+Focused on consistent daily contributions starting January 2026.
+</p>
+
   
-  <!-- Snake eating contributions animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake-light.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake.svg">
-  </picture>
+![Snake animation](https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
@@ -274,4 +274,3 @@ TypeScript               4 repos             ██░░░░░░░░░�
   </p>
 </div>
 
----
