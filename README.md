@@ -26,10 +26,10 @@
   </h1>
 
 <p>
-   My name is  <strong>Muskan Kanwar Shekhawat </strong>. I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building responsive and scalable web applications using modern technologies, and currently living in Jaipur, India.  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="35" /><br/>
+   My name is  <strong>Muskan Kanwar Shekhawat </strong>. I'm a Software Engineer with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building responsive and scalable web applications using modern technologies, and currently living in Jaipur, India.  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="35" /><br/>
   I'm a Computer Science Engineering graduate with hands-on experience in React.js, Tailwind CSS, and UI/UX design principles. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="35" /> <br/>
   At the moment, I am expanding my skills into full-stack development, working on projects that combine beautiful design with robust functionality. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35" /> <br/>
-  Feel free to explore my repositories and connect with me! 💅🏻 ✨
+  Feel free to explore my repositories and connect with me! 💅🏻✨
   </p>
 </div>
 
