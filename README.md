@@ -26,10 +26,10 @@
   </h1>
 
 <p>
-   👩🏻 My name is  <strong>Muskan Kanwar Shekhawat </strong>. I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building responsive and scalable web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in Jaipur, India. <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="40" /> <br/>
-  👩🏻‍💻 I'm a Computer Science Engineering graduate with hands-on experience in React.js, Tailwind CSS, and UI/UX design principles. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
-  💪🏻At the moment, I am expanding my skills into full-stack development, working on projects that combine beautiful design with robust functionality. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" /> <br/>
-  💁🏻‍♀️Feel free to explore my repositories and connect with me! 💅🏻 ✨
+   My name is  <strong>Muskan Kanwar Shekhawat </strong>. I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building responsive and scalable web applications using modern technologies, and currently living in Jaipur, India.  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="35" /><br/>
+  I'm a Computer Science Engineering graduate with hands-on experience in React.js, Tailwind CSS, and UI/UX design principles. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="35" /> <br/>
+  At the moment, I am expanding my skills into full-stack development, working on projects that combine beautiful design with robust functionality. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="35" /> <br/>
+  Feel free to explore my repositories and connect with me! 💅🏻 ✨
   </p>
 </div>
 
@@ -235,9 +235,14 @@ Focused on consistent daily contributions starting January 2026.
 ---
 
 <!-- Contact Links -->
-<div align="center">
-  <h2>📩 Contact Me</h2>
-</div>
+<h2 align="center">📩 Contact Me</h2>
+
+<img
+  align="right"
+  src="web.gif"
+  width="400" 
+  height="400"
+/>
 
 <div align="left">
   <!-- Gmail -->
@@ -254,13 +259,7 @@ Focused on consistent daily contributions starting January 2026.
   </a>
 </div>
 
-<img
-  align="right"
-  src="https://i.imgflip.com/65efzo.gif"
-  width="200" height="200"
-/>
-
-<br/>
+<br/><br/>
 
 <div align="left">
   <h3>💡 Open For:</h3>
@@ -273,4 +272,3 @@ Focused on consistent daily contributions starting January 2026.
     ✅ Tech Discussions & Knowledge Sharing
   </p>
 </div>
-
