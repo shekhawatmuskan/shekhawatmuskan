@@ -12,6 +12,8 @@
 <!-- Banner -->
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/e783526b-5b3a-498d-afdf-f719d335412b" />
 
+
+
 <br>
 
 <!-- Introduction -->
@@ -182,18 +184,13 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>📊 GitHub Analytics — 2026</h2>
+ <h2>📊 GitHub Analytics — 2026</h2>
+
   
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shekhawatmuskan&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Custom Streak Stats matching your data -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhawatmuskan&theme=dracula&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&currStreakNum=13&longestStreakNum=13&longestStreakDate=Jan%2024%202026&totalContributions=20" alt="GitHub Streak" />
   
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhawatmuskan&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shekhawatmuskan&theme=dracula&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
+ 
 </div>
 
 ---
@@ -201,8 +198,15 @@
 <!-- Coding Stats -->
 <div align="center">
   <h2>💻 Most Used Languages</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekhawatmuskan&layout=default&theme=dracula&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages Detailed" />
 </div>
+
+```text
+JavaScript               12 repos            ███████████░░░░░░░░░░░░░░   43.08 % 
+HTML/CSS                 14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+C/C++                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+React                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+```
 
 ---
 
@@ -216,21 +220,16 @@
 
 <!-- GitHub Contribution Graph -->
 <div align="center">
-  <h2>🐍 2026 Contribution Journey</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhawatmuskan&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&area_color=F8D866" alt="Contribution Graph" />
+ <h2>🐍 2026 Contribution Journey</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekhawatmuskan&theme=dracula&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
 
   <p align="center">
-    Focused on consistent daily contributions starting January 2026.
-  </p>
+Focused on consistent daily contributions starting January 2026.
+</p>
 
-  <br/>
   
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake.svg">
-  </picture>
+![Snake animation](https://raw.githubusercontent.com/shekhawatmuskan/shekhawatmuskan/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
@@ -272,11 +271,4 @@
     ✅ Freelance Work<br/>
     ✅ Tech Discussions & Knowledge Sharing
   </p>
-</div>
-
----
-
-<div align="center">
-  <h3>⭐ From <a href="https://github.com/shekhawatmuskan">shekhawatmuskan</a> with 💖</h3>
-  <p><em>If you find my work interesting, feel free to star ⭐ my repositories!</em></p>
 </div>
